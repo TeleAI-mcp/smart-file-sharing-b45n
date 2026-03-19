@@ -1,2 +1,3 @@
-# smart-file-sharing-b45n
-Automated issue comment bot repository
+# Smart File Sharing B45N
+
+Automated issue comment bot repository.
